@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'D:/src/kbd/KBDParts/Keyboard Cases/Alice/wrist.step',
-/* time_stamp */ '2020-05-01T18:30:47-07:00',
+/* name */ 'D:/src/kbd/KBDParts/Keyboard Cases/Alice/Wrist.step',
+/* time_stamp */ '2020-05-07T14:17:33-07:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18.1',
@@ -998,18 +998,18 @@ SOLID_ANGLE_UNIT()
 #885=SHAPE_REPRESENTATION('',(#488,#545),#873);
 #886=SHAPE_REPRESENTATION('',(#489),#874);
 #887=PRODUCT_DEFINITION_CONTEXT('part definition',#895,'design');
-#888=PRODUCT_DEFINITION('Assembled','Assembled v23',#890,#887);
+#888=PRODUCT_DEFINITION('Assembled','Assembled v25',#890,#887);
 #889=PRODUCT_DEFINITION('Component8','Component8',#891,#887);
 #890=PRODUCT_DEFINITION_FORMATION('',$,#897);
 #891=PRODUCT_DEFINITION_FORMATION('',$,#898);
-#892=PRODUCT_RELATED_PRODUCT_CATEGORY('Assembled v23','Assembled v23',(#897));
+#892=PRODUCT_RELATED_PRODUCT_CATEGORY('Assembled v25','Assembled v25',(#897));
 #893=PRODUCT_RELATED_PRODUCT_CATEGORY('Component8','Component8',(#898));
 #894=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#895);
 #895=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #896=PRODUCT_CONTEXT('part definition',#895,'mechanical');
-#897=PRODUCT('Assembled','Assembled v23',$,(#896));
+#897=PRODUCT('Assembled','Assembled v25',$,(#896));
 #898=PRODUCT('Component8','Component8',$,(#896));
 #899=PRESENTATION_STYLE_ASSIGNMENT((#901));
 #900=PRESENTATION_STYLE_ASSIGNMENT((#902));
